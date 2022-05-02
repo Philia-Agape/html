@@ -8,4 +8,6 @@
 
 [local-host-subdomain](https://stackoverflow.com/questions/19016553/add-subdomain-to-localhost-url)
 
+[React Publish](https://blog.logrocket.com/8-ways-deploy-react-app-free/#gitlab-pages)
+
 
