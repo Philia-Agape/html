@@ -10,4 +10,6 @@
 
 [React Publish](https://blog.logrocket.com/8-ways-deploy-react-app-free/#gitlab-pages)
 
+[git commit v.s. git push](http://www.differencebetween.net/technology/difference-between-commit-and-push/)
+
 
